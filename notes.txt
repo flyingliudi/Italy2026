@@ -106,6 +106,18 @@ evaluation for categorical data
 ------------------------------------------------------------------------------
 Unify the measures of associations (different names but the same formule)
 
+12. optimal policy learning under constraints in Stata
+------------------------------------------------------
+OPL suites command
+
+
+
+
+Feature regquest:
+1. Una, text analysis
+2. Giovanni, cate with boosting, nuisance function goodness fit
+3. 
+
 
 
 
