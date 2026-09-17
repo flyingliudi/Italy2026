@@ -90,6 +90,28 @@ Python part:
 Stata part:
 	Econometric analysis (e.g. K-means) 
 
+8: adotools
+-----------
+customize adopath
+
+9: wqsreg: weighted quantile sum regression
+-------------------------------------------
+
+10. stfform: accessing functional form in Cox model
+---------------------------------------------------
+Looks nice. Should inform the Stat. team
+
+11. catmetrics: computing 300 measures of association, similarity and forecast
+evaluation for categorical data
+------------------------------------------------------------------------------
+Unify the measures of associations (different names but the same formule)
+
+
+
+
+
+
+
 
 	
 
