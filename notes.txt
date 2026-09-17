@@ -66,11 +66,32 @@ bbandits
 Post-lasso RD !! questionable under very strict sparsity assumption
 
 
+5: GSEM
+-------
 
+6: Beyond Evidence Synthesis: A Meta-Analytic Framework for Explaining
+Heterogeneous Dynamic Parameters
+----------------------------------------------------------------------
+missing
+
+7: Bibliometric analysis in Stata: Text Mining, Network community detection
+---------------------------------------------------------------------------
+Stata + Python
+
+Network of related words 
+
+Python part:
+	Text mining
+
+	Co-occurrence network as a graph: basic node-level measures (centrality)
+
+	Louvain community detection
+
+Stata part:
+	Econometric analysis (e.g. K-means) 
 
 
 	
-
 
 
 
