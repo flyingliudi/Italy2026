@@ -1,0 +1,11 @@
+1. AI agents and econometric estimator
+--------------------------------------
+
+chatbot vs. agent
+
+agent (Claude code, Codeex): you delegate, it goes into computer and does
+things.
+
+
+
+
