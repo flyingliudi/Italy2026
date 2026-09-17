@@ -26,14 +26,44 @@ less hours, same work as before.
 really little time, worse works.
 
 2. fffurtest: flexible fourier form unit-rrot tests in Stata
------------------------------------------------------------:-
+------------------------------------------------------------
 
 Enders-Lee LM 
 
 Application: Euro-baced stablecoin
 
+3. xtthreshold: panel data threshold regression with interactive fixed effects
+------------------------------------------------------------------------------
+
+structural break, the coefficient may can change after a threshold (financial
+crisis). How to detect the break points. 
+
+y_it = xb + delta h_t(r) + e_it
+
+h_t(r) = S'x_it(I_it > r) + u_it
+
+	r is unknown
+	S select the covariates
+
+e_it  = \mu' f_T + epsilon_it
+x_it = \Gamma' f_T + v_it
+
+f_T is the common factors
+
+3. earning while learning: batched bandit experiments
+-----------------------------------------------------
+
+Thompson sampling
+
+adaptive experiments
+
+batched OLS with heteroskedasitcity-robust weighting
 
 
+4. rdlasso: regression discontinuty with high-dimensional data
+--------------------------------------------------------------
+
+	
 
 
 
