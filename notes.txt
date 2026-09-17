@@ -6,6 +6,22 @@ chatbot vs. agent
 agent (Claude code, Codeex): you delegate, it goes into computer and does
 things.
 
+evalute the ATET with 1000s agents and get a distribution of the estimator. 
+
+agents can cheat you by giving you answer that you want by switching to DiDs
+It is really bad, but it is for 4.6 claude. In 4.8, it is better. But is still
+based on your prompt. For example, you need to mention the possible estimators
+to be used.
+
+Knowing econometrics is good or even better in the age of AI.
+
+Knowledge: production (code, figures and tables, AI do it) 
+	+ verification (humans make judgement) 
+	+ understanding (humans)
+
+
+
+
 
 
 
