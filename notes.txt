@@ -59,9 +59,11 @@ adaptive experiments
 
 batched OLS with heteroskedasitcity-robust weighting
 
+bbandits
 
 4. rdlasso: regression discontinuty with high-dimensional data
 --------------------------------------------------------------
+
 
 	
 
