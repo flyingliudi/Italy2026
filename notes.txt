@@ -28,6 +28,11 @@ really little time, worse works.
 2. fffurtest: flexible fourier form unit-rrot tests in Stata
 -----------------------------------------------------------:-
 
+Enders-Lee LM 
+
+Application: Euro-baced stablecoin
+
+
 
 
 
