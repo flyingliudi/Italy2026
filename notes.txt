@@ -19,6 +19,14 @@ Knowledge: production (code, figures and tables, AI do it)
 	+ verification (humans make judgement) 
 	+ understanding (humans)
 
+same human hours, better and more academic works
+
+less hours, same work as before.
+
+really little time, worse works.
+
+2. fffurtest: flexible fourier form unit-rrot tests in Stata
+-----------------------------------------------------------:-
 
 
 
