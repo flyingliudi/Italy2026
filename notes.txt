@@ -63,6 +63,10 @@ bbandits
 
 4. rdlasso: regression discontinuty with high-dimensional data
 --------------------------------------------------------------
+Post-lasso RD !! questionable under very strict sparsity assumption
+
+
+
 
 
 	
